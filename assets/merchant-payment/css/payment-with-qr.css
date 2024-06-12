@@ -1,0 +1,172 @@
+.payment-container * {
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background: #FF8536;
+
+}
+
+.payment-container {
+    margin: 0;
+    background: #FF8536;
+    padding: 39px 36px;
+    display: flex;
+    padding-right: 0;
+}
+
+.payment-container .body-wrapper {
+/*    height: calc(100vh - 78px);*/
+    width: calc(80vw - 72px);
+    background: #fff;
+    border-radius: 15px;
+    overflow: auto;
+}
+
+.payment-container .img-wrapper {
+    margin-left: 40px;
+}
+
+.payment-container .m-logo {
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    margin: 0;
+    margin-top: -30px;
+}
+
+.payment-container .content-wrapper {
+    text-align: center;
+}
+
+.payment-container .depositing-txt {
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    text-align: center;
+    margin: 0;
+}
+
+.payment-container .discount-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment-container .pay-txt {
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 30px;
+    text-align: center;
+    margin: 0;
+    margin-top: 10px;
+    /* margin-right: 20px; */
+}
+
+.payment-container .pay-amt {
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.payment-container .timer {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    margin: 0;
+    margin-top: 5px;
+}
+
+.payment-container .upi-txt {
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 27px;
+    text-align: center;
+    margin: 0;
+    margin-top: 26px;
+}
+
+.payment-container .upi-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.payment-container .bottom-txt {
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+    font-size: 16px;
+    margin-top: 30px;
+    font-weight: 400;
+}
+
+
+.payment-container .login-wrapper {
+    width: calc(20vw);
+    padding: 147px 38px;
+}
+
+.payment-container .login-wrapper .already-txt {
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 26px;
+}
+
+.payment-container .login-wrapper .btn {
+    background-color: #fff;
+    color: #FF8536;
+    border-radius: 15px;
+    height: 59px;
+    width: 100%;
+    font-size: 22px;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+    margin-top: 29px;
+}
+
+.alignment{
+    padding-left:inherit; 
+    padding: 215px 25px !important;
+}
+
+#style-element{
+    padding: 96px 68px !important; 
+    padding-left: 150px !important;
+}
+
+@media screen and (max-width: 760px) {
+    .payment-container {
+        flex-direction: column;
+        gap: 25px;
+    padding: 25px 15px;
+}
+  .payment-container .body-wrapper {
+     width: calc(100vw - 30px);
+  }
+  #style-element{
+    padding: 25px 15px !important; 
+    padding-left: 15px !important;
+}
+.alignment{
+    padding: 0 !important;
+    width: calc(100vw - 30px) !important;
+}
+}
+
+@media screen and (max-width: 980px) {
+.payment-container .upi-wrapper {
+    display: block;
+}
+.payment-container .upiImage{
+    width: calc(100% - 30px);
+    padding: 15px;
+    margin-right: 0px !important;
+}
+}

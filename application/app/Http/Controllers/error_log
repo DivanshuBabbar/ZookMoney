@@ -1,0 +1,50 @@
+[13-Jun-2018 01:47:45 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/MoneyTransferController.php on line 12
+[13-Jun-2018 01:47:45 America/New_York] PHP Stack trace:
+[13-Jun-2018 01:47:45 America/New_York] PHP   1. {main}() /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/MoneyTransferController.php:0
+[13-Jun-2018 01:47:46 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/MoneyTransferController.php on line 12
+[13-Jun-2018 01:47:46 America/New_York] PHP Stack trace:
+[13-Jun-2018 01:47:46 America/New_York] PHP   1. {main}() /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/MoneyTransferController.php:0
+[13-Jun-2018 01:49:48 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/IPNController.php on line 15
+[13-Jun-2018 01:49:48 America/New_York] PHP Stack trace:
+[13-Jun-2018 01:49:48 America/New_York] PHP   1. {main}() /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/IPNController.php:0
+[02-Aug-2018 02:27:00 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/ExchangeController.php on line 14
+[02-Aug-2018 05:02:50 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/WithdrawalController.php on line 14
+[02-Aug-2018 07:40:05 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/TicketsController.php on line 12
+[02-Aug-2018 11:28:31 America/New_York] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Controller.php on line 10
+[02-Aug-2018 12:11:54 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/AddCreditController.php on line 14
+[02-Aug-2018 13:12:31 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/RequestController.php on line 10
+[02-Aug-2018 18:14:20 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/MoneyTransferController.php on line 13
+[02-Aug-2018 18:55:52 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/MerchantController.php on line 11
+[03-Aug-2018 01:12:09 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/SignUpController.php on line 11
+[03-Aug-2018 01:57:26 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/DepositController.php on line 12
+[03-Aug-2018 09:11:52 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/HomeController.php on line 12
+[03-Aug-2018 13:40:25 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/TicketCommentsController.php on line 12
+[03-Aug-2018 14:26:34 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/IPNController.php on line 17
+[03-Aug-2018 19:42:15 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/ProfileController.php on line 11
+[04-Aug-2018 04:28:14 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/ProfileController.php on line 11
+[28-Sep-2018 12:11:20 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/HomeController.php on line 12
+[28-Sep-2018 13:17:17 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/HomeController.php on line 12
+[28-Sep-2018 17:51:21 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/MerchantController.php on line 11
+[28-Sep-2018 19:34:41 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/IPNController.php on line 17
+[28-Sep-2018 19:35:27 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/ExchangeController.php on line 14
+[28-Sep-2018 19:35:52 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/TicketCommentsController.php on line 12
+[28-Sep-2018 19:36:11 America/New_York] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Controller.php on line 10
+[28-Sep-2018 21:11:02 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/WithdrawalController.php on line 14
+[28-Sep-2018 21:58:54 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/TicketsController.php on line 12
+[02-Mar-2019 02:33:40 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/AddCreditController.php on line 14
+[02-Mar-2019 02:33:41 America/New_York] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/Controller.php on line 10
+[02-Mar-2019 02:33:41 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/DepositController.php on line 12
+[02-Mar-2019 02:33:41 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/ExchangeController.php on line 14
+[02-Mar-2019 02:33:41 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/HomeController.php on line 12
+[02-Mar-2019 02:33:42 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/IPNController.php on line 17
+[02-Mar-2019 02:33:42 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/MerchantController.php on line 11
+[02-Mar-2019 02:33:42 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/MoneyTransferController.php on line 23
+[02-Mar-2019 02:33:42 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/PayPalController.php on line 13
+[02-Mar-2019 02:33:43 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/ProfileController.php on line 11
+[02-Mar-2019 02:33:43 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/RequestController.php on line 10
+[02-Mar-2019 02:33:43 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/SignUpController.php on line 13
+[02-Mar-2019 02:33:43 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/TicketCommentsController.php on line 12
+[02-Mar-2019 02:33:44 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/TicketsController.php on line 12
+[02-Mar-2019 02:33:44 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/TransactionController.php on line 17
+[02-Mar-2019 02:33:44 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/VoucherController.php on line 10
+[02-Mar-2019 02:33:44 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/dev.scriptdemo.website/app/Http/Controllers/WithdrawalController.php on line 14

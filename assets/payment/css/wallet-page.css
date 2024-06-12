@@ -1,0 +1,265 @@
+.wallet-page {
+  background-color: #ff8536;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.wallet-page .overlap-wrapper {
+  background-color: #ff8536;
+  width: 1280px;
+  height: 832px;
+}
+
+.wallet-page .overlap {
+  position: relative;
+  width: 1209px;
+  height: 767px;
+  top: 26px;
+  left: 35px;
+}
+
+.wallet-page .rectangle {
+  position: absolute;
+  width: 1209px;
+  height: 754px;
+  top: 13px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 15px;
+}
+
+.wallet-page .imageedit {
+  position: absolute;
+  width: 141px;
+  height: 141px;
+  top: 0;
+  left: 54px;
+  object-fit: cover;
+}
+
+.wallet-page .text-wrapper {
+  position: absolute;
+  width: 821px;
+  top: 695px;
+  left: 194px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wallet-page .div {
+  position: absolute;
+  width: 196px;
+  top: 95px;
+  left: 506px;
+  font-family: "Gugi", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wallet-page .text-wrapper-2 {
+  width: 177px;
+  top: 285px;
+  left: 516px;
+  color: #000000;
+  font-size: 45px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wallet-page .text-wrapper-3 {
+  position: absolute;
+  width: 194px;
+  top: 224px;
+  left: 507px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wallet-page .hello-himanshu {
+  position: absolute;
+  width: 286px;
+  top: 164px;
+  left: 461px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 25px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wallet-page .span {
+  color: #000000;
+}
+
+.wallet-page .text-wrapper-4 {
+  color: #ff8536;
+}
+
+.wallet-page .group {
+  position: absolute;
+  width: 371px;
+  height: 62px;
+  top: 595px;
+  left: 420px;
+}
+
+.wallet-page .overlap-group {
+  position: relative;
+  width: 369px;
+  height: 62px;
+}
+
+.wallet-page .rectangle-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  position: absolute;
+  width: 369px;
+  height: 59px;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+}
+
+.wallet-page .text-wrapper-5 {
+  position: absolute;
+  width: 247px;
+  top: 14px;
+  left: 61px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ff8536;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wallet-page .overlap-group-wrapper {
+  position: absolute;
+  width: 371px;
+  height: 61px;
+  top: 516px;
+  left: 420px;
+}
+
+.wallet-page .overlap-2 {
+  position: relative;
+  width: 369px;
+  height: 61px;
+}
+
+.wallet-page .rectangle-3 {
+  background-color: #ff8536;
+  position: absolute;
+  width: 369px;
+  height: 59px;
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+}
+
+.wallet-page .text-wrapper-6 {
+  position: absolute;
+  width: 124px;
+  top: 13px;
+  left: 122px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 22px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wallet-page .div-wrapper {
+  position: absolute;
+  width: 515px;
+  height: 99px;
+  top: 372px;
+  left: 349px;
+}
+
+.wallet-page .overlap-3 {
+  position: relative;
+  width: 511px;
+  height: 99px;
+  background-color: #ffe8d9;
+  border-radius: 15px;
+}
+
+.wallet-page .element {
+  position: absolute;
+  width: 57px;
+  height: 57px;
+  top: 21px;
+  left: 391px;
+  object-fit: cover;
+}
+
+.wallet-page .text-wrapper-7 {
+  width: 194px;
+  top: 25px;
+  left: 184px;
+  color: #ff6400;
+  font-size: 40px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.wallet-page .img {
+  position: absolute;
+  width: 41px;
+  height: 41px;
+  top: 29px;
+  left: 459px;
+  object-fit: cover;
+}
+
+.wallet-page .element-2 {
+  position: absolute;
+  width: 51px;
+  height: 51px;
+  top: 24px;
+  left: 11px;
+  object-fit: cover;
+}
+
+.wallet-page .text-wrapper-8 {
+  position: absolute;
+  width: 99px;
+  top: 35px;
+  left: 70px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
