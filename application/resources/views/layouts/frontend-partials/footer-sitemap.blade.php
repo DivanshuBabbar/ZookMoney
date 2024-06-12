@@ -22,6 +22,7 @@
                     <img src="{{asset('assets/frontend/images/mastercard.png')}}" class="img-fluid" alt="">
                 </figure>
             </div>
+
             <div class="col-lg-1 col-md-1 col-sm-12 col-12 d-lg-block d-none">
     
             </div>
@@ -49,7 +50,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-2 col-md-2 col-sm-12 col-12 d-lg-block d-none">
+            <div class="col-lg-2 col-md-2 col-sm-12 col-12 d-lg-block">
                 <div class="links">
                     <h4 class="heading">Download Our App</h4>
                     <hr class="line">
@@ -60,6 +61,7 @@
                     </ul>
                 </div>
             </div>
+            
             <div class="col-lg-2 col-md-4 col-sm-6 col-12 d-sm-block">
                 <div class="icon">
                     <h4 class="heading">Get in Touch</h4>
