@@ -3,7 +3,7 @@
         <nav class="navbar position-relative navbar-expand-lg navbar-light">
             <a class="navbar-brand" href="{{url('/')}}">
                 <figure class="mb-0">
-                    <img src="{{asset('assets/frontend/images/zookmoney.png')}}" class="img-fluid" alt="Logo">
+                    <img src="{{asset('assets/frontend/images/zookmoney4000.png')}}" style="width:140px; height: 134px;" class="img-fluid" alt="Logo">
                 </figure>
             </a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" 
