@@ -56,7 +56,7 @@
                                  </div>
                                  <div id="collapseOne" class="collapse" aria-labelledby="headingOne">
                                     <div class="card-body">
-                                       <p class="text-size-16 text-left mb-0 p-0">You can mail us at <a href="mailto:info@zookpe.com" style="color:#ff6400">info@zookmoney.com</a></p>
+                                       <p class="text-size-16 text-left mb-0 p-0">You can mail us at <a href="mailto:info@zook.money" style="color:#ff6400">info@zook.money</a></p>
                                     </div>
                                  </div>
                               </div>

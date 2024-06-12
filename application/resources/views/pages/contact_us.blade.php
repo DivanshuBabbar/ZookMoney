@@ -49,7 +49,7 @@
                     <div class="message_content" data-aos="fade-up">
                         <div class="row d-flex justify-content-center">
                             <div class="col-lg-12 col-md-12 col-sm-12 col-12 text-center">
-                                <h1>Mail at <span style="color:#ff6400">info@zookmoney.com</span></h1>
+                                <h1>Mail at <span style="color:#ff6400">info@zook.money</span></h1>
                             </div>
                         </div>
                     </div>

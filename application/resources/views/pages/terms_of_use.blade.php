@@ -137,7 +137,7 @@
 
                      <h2>Contact Information</h2>
 
-                     <p>Email: info@zookmoney.com</p>
+                     <p>Email: info@zook.money</p>
                                     
                </div>
             </div>

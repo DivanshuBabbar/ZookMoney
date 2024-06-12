@@ -64,7 +64,7 @@
                 <div class="icon">
                     <h4 class="heading">Get in Touch</h4>
                     <hr class="line">
-                    <h5>Mail at <span style="color:#ff6400">info@zookmoney.com</span></h5>
+                    <h5>Mail at <span style="color:#ff6400">info@zook.money</span></h5>
                     {{-- <ul class="list-unstyled mb-0"> --}}
                         {{-- <li class="text-size-16 text">Email: <a href="mailto:info@repay.com" class="mb-0 text text-decoration-none text-size-16">info@repay.com</a></li> --}}
                         {{-- <li class="text-size-16 text">Phone: <a href="tel:+4733378901" class="mb-0 text text-decoration-none text-size-16">+1 234 567 89 0 0</a></li> --}}
