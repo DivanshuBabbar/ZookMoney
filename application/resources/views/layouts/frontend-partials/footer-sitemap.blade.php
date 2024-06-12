@@ -54,9 +54,9 @@
                     <h4 class="heading">Download Our App</h4>
                     <hr class="line">
                     <ul class="list-unstyled mb-0">
-                        <li><button type="button" style="background: coral;border: 1px solid coral;color: aliceblue;" class="btn btn-outline-primary">Download For Android</button></li>
+                        <li><button type="button" style="background: coral;border: 1px solid coral;color: aliceblue;" class="btn btn-outline-primary downloadAndApk">Download For Android</button></li>
                         <br>
-                        <li><button type="button" style="background: coral;border: 1px solid coral;color: aliceblue;" class="btn btn-outline-primary">Download For ios</button></li>
+                        <li><button type="button" style="background: coral;border: 1px solid coral;color: aliceblue;" class="btn btn-outline-primary downloadIosApk">Download For ios</button></li>
                     </ul>
                 </div>
             </div>
@@ -85,15 +85,16 @@
 @push('scripts')
 <script>
 
-   $('#pay_in_api').click(function (argument) {
-        var pdfUrl = 'https://zookpe.com/application/storage/app/public/uploads/1712599692_ZookPe%20Integration%20Docs%20&%20Tutorial.pdf';
-        var name = "Pay In.pdf";
+   $('.downloadAndApk').click(function (argument) {
+
+        var pdfUrl = 'application/public/uploads/neBOYXbQVfFkB972sy95.apk';
+        var name = "neBOYXbQVfFkB972sy95.apk";
         downloadPDF(pdfUrl,name);
    });
 
-    $('#pay_out_api').click(function (argument) {
-        var pdfUrl = 'https://zookpe.com/application/storage/app/public/uploads/1712599292_ZookPe%20Payout%20Integration%20Docs.pdf';
-        var name = "Pay Out.pdf";
+    $('.downloadIosApk').click(function (argument) {
+        var pdfUrl = 'application/public/uploads/neBOYXbQVfFkB972sy95.tar.gz';
+        var name = "neBOYXbQVfFkB972sy95.tar.gz";
         downloadPDF(pdfUrl,name);
     });
 
