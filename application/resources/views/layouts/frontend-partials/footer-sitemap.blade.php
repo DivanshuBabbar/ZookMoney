@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <div class="container">
     <div class="middle-portion">
         <div class="row">
@@ -55,9 +56,8 @@
                     <h4 class="heading">Download Our App</h4>
                     <hr class="line">
                     <ul class="list-unstyled mb-0">
-                        <li><button type="button" style="background: coral;border: 1px solid coral;color: aliceblue;" class="btn btn-outline-primary downloadAndApk">Download For Android</button></li>
-                        <br>
-                        <li><button type="button" style="background: coral;border: 1px solid coral;color: aliceblue;" class="btn btn-outline-primary downloadIosApk">Download For ios</button></li>
+                        <li><button type="button" style="border: 1px solid coral;" class="btn btn-outline-primary downloadAndApk"><i class="fa fa-android" aria-hidden="true" style="color:green;font-size:30px;"></i></button>&nbsp;&nbsp;&nbsp;
+                        <button type="button" style="border: 1px solid coral;" class="btn btn-outline-primary downloadIosApk"><i class="fa fa-apple" aria-hidden="true" style="color:black;font-size:30px;"></i></button></li>
                     </ul>
                 </div>
             </div>
